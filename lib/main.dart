@@ -1,7 +1,7 @@
 /*
  * @Author: 周长升
  * @Date: 2023-03-04 00:00:29
- * @LastEditTime: 2023-04-02 20:02:50
+ * @LastEditTime: 2023-04-22 12:32:52
  * @LastEditors: 周长升
  * @Description: 
  */
@@ -16,8 +16,9 @@ import 'package:flutter/material.dart';
 // import './lesson7_container.dart';
 // import './lesson8_grid_and_list.dart';
 // import './lesson9_stack.dart';
-import './lesson10_card.dart';
+// import './lesson10_card.dart';
+import './lesson11_tutorial_app_base.dart';
 
 void main() {
-  runApp(const Lesson10CardApp());
+  runApp(Lesson11TutorialAppBaseDemo());
 }
